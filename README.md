@@ -9,8 +9,6 @@ BHConnect is a web-based platform designed to help students and travelers easily
 ### Dependencies
 It will run on any OS Versions
 
-### Installing
-
 ### Executing program
 * How to run the program
   To run the system you need to open the 2 folder in Terminal the Frontend folder and backend folder then run the code
