@@ -1,57 +1,25 @@
-# BHConnect
+# PROJECT TITLLE
 Development-of-BHCONNECT-A-Local-Boarding-House-Booking-System
 
-To run the system you need to open the 2 folder in Terminal the Frontend folder and backend folder then run the code
+## DISCRIPTION
+BHConnect is a web-based platform designed to help students and travelers easily find and book local boarding houses. Similar to Airbnb but focused on local communities, the system allows boarding house owners to post listings and manage bookings. It includes integrated payment option like GCash for a smooth and secure transaction experience.
 
-#FRONTEND (TYPESCIPT, REACT)
-npm install
-npm run dev
+## Getting Started
 
-#BACKEND (FAST API)
-python -m uvicorn main:app --reload
+### Dependencies
+It will run on any OS Versions
+
+### Installing
+
+### Executing program
+* How to run the program
+  To run the system you need to open the 2 folder in Terminal the Frontend folder and backend folder then run the code
+
+* FRONTEND (TYPESCIPT, REACT)
+  npm install
+  npm run dev
+
+* BACKEND (FAST API)
+  python -m uvicorn main:app --reload
 
 
-Project Title
-Simple overview of use/purpose.
-
-Description
-An in-depth paragraph about your project and overview of use.
-
-Getting Started
-Dependencies
-Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-ex. Windows 10
-Installing
-How/where to download your program
-Any modifications needed to be made to files/folders
-Executing program
-How to run the program
-Step-by-step bullets
-code blocks for commands
-Help
-Any advise for common problems or issues.
-
-command to run if program contains helper info
-Authors
-Contributors names and contact info
-
-ex. Dominique Pizzie
-ex. @DomPizzie
-
-Version History
-0.2
-Various bug fixes and optimizations
-See commit change or See release history
-0.1
-Initial Release
-License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-Acknowledgments
-Inspiration, code snippets, etc.
-
-awesome-readme
-PurpleBooth
-dbader
-zenorocha
-fvcproductions
