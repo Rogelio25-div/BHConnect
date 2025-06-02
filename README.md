@@ -22,4 +22,11 @@ It will run on any OS Versions
 * BACKEND (FAST API)
   python -m uvicorn main:app --reload
 
+## Authors
+Bellie Jay A Edoloverio - Project Manager
+Ann Loraine L. Canoy - Technical Writer
+Jezriel L. Noval - System Analyst
+Rogelio II N. Lape - Frontend Developer
+Brian Salise - Backend Developer
+
 
